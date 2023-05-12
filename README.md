@@ -1,7 +1,7 @@
 # O4WTP
 
 ### TODO
-- [ ] Find hero image
+- [ ] Find hero image (ideal for mobile is 800x1200 pixels)
 - [ ] Logo placeholder upper left
 - [ ] Nav bar upper right
 - [ ] Cart icon upper right before Nav
