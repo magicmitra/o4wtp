@@ -1,3 +1,5 @@
+const Beer = () => {
 
+}
 
-export {}
+export default Beer

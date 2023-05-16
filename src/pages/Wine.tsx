@@ -1,3 +1,5 @@
+const Wine = () => {
 
+}
 
-export {}
+export default Wine

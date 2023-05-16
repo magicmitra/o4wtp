@@ -1,7 +1,7 @@
 import { Button, ThemeProvider } from '@mui/material'
 import styles from  '../App.module.css'
 
-const LandingPage = () => {
+const Landing = () => {
 
     return (
         <div className={styles['Hero-image']}>
@@ -10,4 +10,4 @@ const LandingPage = () => {
     )
 }
 
-export default LandingPage
+export default Landing
