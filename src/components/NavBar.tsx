@@ -1,5 +1,6 @@
 import styles from '../App.module.css'
 
+// possibly use the MenuDrawer component to handle hamburger clicks
 const NavBar = () => {
     const handleLogoClick = () => {
         alert("Logo Clicked")

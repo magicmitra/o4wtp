@@ -2,10 +2,12 @@
 
 ### TODO
 - [ ] Find hero image (ideal for mobile is 800x1200 pixels)
-- [ ] Logo placeholder upper left
+- [x] Logo placeholder upper left
 - [ ] Nav bar upper right
 - [ ] Cart icon upper right before Nav
 - [ ] Optimize hero for mobile
+- [ ] Drawer when hamburger menu is clicked
+- [ ] POC: Wine page
 
 ### Pages
 - [ ] Landing
