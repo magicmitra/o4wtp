@@ -1,4 +1,12 @@
 # O4WTP
+- WFs 
+- Be better than Savi's
+- Online ordering for pickup. Delivery later
+- 1000 SKUs
+- Link up with Clover's POS
+- CMS
+- Might turn into a liquor store
+- SEO optimized 
 
 ### TODO
 - [ ] Find hero image (ideal for mobile is 800x1200 pixels)
